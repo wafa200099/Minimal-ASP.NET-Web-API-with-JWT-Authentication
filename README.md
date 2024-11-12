@@ -17,9 +17,12 @@ A code editor like Visual Studio or Rider
 # Setup Instructions
 Clone this repository:
 git clone https://github.com/your-username/minimal-aspnet-jwt-authentication.git
+
 cd minimal-aspnet-jwt-authentication
+
 Install Dependencies:
 Make sure you have the following NuGet package:
+
 dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
 
 # Project Structure
